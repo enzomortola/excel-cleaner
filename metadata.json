@@ -1,0 +1,5 @@
+{
+  "name": "CleanSheet",
+  "description": "A data cleaning and conversion tool. Upload Excel, CSV, or JSON files to sort, filter, and deduplicate data before exporting.",
+  "requestFramePermissions": []
+}
