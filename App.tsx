@@ -435,7 +435,7 @@ export default function App() {
   }, [activeSheet, filterConfig]);
 
   return (
-    <div className="flex h-screen bg-slate-50 font-sans text-slate-900 overflow-hidden">
+    <div className="flex h-screen bg-slate-50 font-sans text-slate-900 overflow-hidden" style={{ zoom: 0.8 }}>
 
       {/* Sidebar */}
       <Sidebar

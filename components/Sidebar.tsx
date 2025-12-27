@@ -24,7 +24,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <Database className="w-6 h-6" />
           <h1 className="font-bold text-xl tracking-tight">Data Sweeper</h1>
         </div>
-        <p className="text-xs text-slate-500 font-medium">Professional Tool v1.0</p>
+        <p className="text-xs text-slate-500 font-medium">Limpia y organiza tus excel</p>
       </div>
 
       <div className="p-4 flex-1 overflow-y-auto custom-scrollbar">
